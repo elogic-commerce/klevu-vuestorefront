@@ -1283,12 +1283,12 @@ export default {
 ``` 
 ## Author
 
-👤 **Igor Nikolayev <igor.nikolayev.1997@gmail.com>**
+👤 **Igor Nikolayev <igor.nikolayev@elogic.com.ua>**
 
 ************
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://gitlab.com/igornikolayev/klevu-vuestorefront/issues). You can also take a look at the [contributing guide](https://gitlab.com/igornikolayev/klevu-vuestorefront/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/elogic-commerce/klevu-vuestorefront/issues). You can also take a look at the [contributing guide](https://github.com/elogic-commerce/klevu-vuestorefront/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
